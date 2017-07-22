@@ -1,4 +1,4 @@
-package com.madhukaraphatak.spark.rdd.anatomy.extend
+package com.rakesh.spark.rdd.anatomy.extend
 
 import org.apache.spark.rdd.RDD
 import org.apache.spark.{Partition, TaskContext}

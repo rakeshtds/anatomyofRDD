@@ -1,4 +1,4 @@
-package com.madhukaraphatak.spark.rdd.anatomy
+package com.rakesh.spark.rdd.anatomy
 
 import org.apache.spark.SparkContext
 
