@@ -4,7 +4,7 @@ import org.apache.spark.SparkContext
 import org.apache.spark.SparkContext._
 
 /**
- * Created by madhu on 11/3/15.
+ * Created by rakesh on 11/3/15.
  */
 object LookUpExample {
 

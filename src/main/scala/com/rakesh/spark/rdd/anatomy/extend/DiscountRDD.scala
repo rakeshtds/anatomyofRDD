@@ -4,7 +4,7 @@ import org.apache.spark.rdd.RDD
 import org.apache.spark.{Partition, TaskContext}
 
 /**
- * Created by madhu on 27/2/15.
+ * Created by rakesh on 27/2/15.
  */
 class DiscountRDD(prev:RDD[SalesRecord],discountPercentage:Double) extends RDD[SalesRecord](prev){
   override def compute(split: Partition, context: TaskContext): Iterator[SalesRecord] =  {

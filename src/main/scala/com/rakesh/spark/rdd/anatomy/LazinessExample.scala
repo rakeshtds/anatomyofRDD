@@ -3,7 +3,7 @@ package com.rakesh.spark.rdd.anatomy
 import org.apache.spark.SparkContext
 
 /**
- * Created by madhu on 27/3/15.
+ * Created by rakesh on 27/3/15.
  */
 object LazinessExample {
 

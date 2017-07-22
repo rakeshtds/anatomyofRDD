@@ -3,7 +3,7 @@ package com.rakesh.spark.rdd.anatomy
 import org.apache.spark.SparkContext
 
 /**
- * Created by madhu on 24/3/15.
+ * Created by rakesh on 24/3/15.
  */
 object RunJobExample {
 

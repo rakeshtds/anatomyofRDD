@@ -1,7 +1,7 @@
 package com.rakesh.spark.rdd.anatomy.extend
 
 /**
- * Created by madhu on 20/1/15.
+ * Created by rakesh on 20/1/15.
  */
 class SalesRecord(val transactionId: String,
                   val customerId: String,
